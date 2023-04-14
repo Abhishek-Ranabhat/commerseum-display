@@ -37,7 +37,7 @@ This uses [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&ut
 To test the CMS locally, you'll need to run a production build of the site:
 
 ```
-$ npm serve
+$ npm run serve
 ```
 
 ### Setting up the CMS
