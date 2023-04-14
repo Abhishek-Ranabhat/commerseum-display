@@ -23,7 +23,7 @@ The web app harnesses the [JAMstack architecture](https://jamstack.org) by using
 
 ### Access Locally
 
-Pulldown a local copy of the Github repository Netlify created for you, with the name you specified in the previous step
+Pulldown a local copy of the Github repository, either this one or your own fork:
 
 ```
 $ git clone https://github.com/nerds-with-keyboards/commerseum-display.git
@@ -31,8 +31,6 @@ $ cd commerseum-display
 $ npm i
 $ npm start
 ```
-
-This uses [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `netlify/functions` folder.
 
 To test the CMS locally, you'll need to run a production build of the site:
 
